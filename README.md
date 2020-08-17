@@ -1,1 +1,1 @@
-https://delwinmachan.github.io/productivity-manager/
+https://delwinmachan.github.io/timer/
