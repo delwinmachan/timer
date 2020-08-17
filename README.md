@@ -1,2 +1,1 @@
-# timer
-timer for productivity boost
+https://delwinmachan.github.io/productivity-manager/
