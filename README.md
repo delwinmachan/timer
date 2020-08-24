@@ -1,1 +1,1 @@
-https://delwinmachan.github.io/timer/master
+https://delwinmachan.github.io/timer
